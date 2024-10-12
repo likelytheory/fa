@@ -21,12 +21,9 @@
     "node": ">=6"
   },
   "dependencies": {},
-  "version": "6.4.0",
+  "version": "6.6.0",
   "name": "@fortawesome/fontawesome-pro",
   "main": "js/fontawesome.js",
   "style": "css/fontawesome.css",
-  "license": "UNLICENSED",
-  "scripts": {
-    "postinstall": "node attribution.js"
-  }
+  "license": "UNLICENSED"
 }
