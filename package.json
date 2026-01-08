@@ -21,7 +21,7 @@
     "node": ">=6"
   },
   "dependencies": {},
-  "version": "6.6.0",
+  "version": "7.1.0",
   "name": "@fortawesome/fontawesome-pro",
   "main": "js/fontawesome.js",
   "style": "css/fontawesome.css",
